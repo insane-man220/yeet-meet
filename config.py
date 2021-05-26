@@ -8,8 +8,8 @@ class Config(object):
 # If you're not familiar with how to set Environment Variables you can do like this instead
 # of  setting Environment Variables
 
-# BOT_TOKEN = os.environ.get('BOT_TOKEN', 'BOT_TOKEN_HERE')
-# GUSERNAME = os.environ.get('GUSER_NAME', 'Google Email')
-# GPASSWORD = os.environ.get('GPASSWORD', 'Google Email Password')
+# BOT_TOKEN = os.environ.get('BOT_TOKEN', '1703305879:AAEDC7W-YHM6_XdBUufrjjXv4-YoEZMEsmM')
+# GUSERNAME = os.environ.get('GUSER_NAME', 'insaneman220@gmail.com')
+# GPASSWORD = os.environ.get('GPASSWORD', 'insane0001')
 
 #NOTE: Putting sensitive information in files is considered unsafe. Try to use ENVIRONMENT VARIABLES 
